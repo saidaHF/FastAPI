@@ -40,5 +40,3 @@ Si deseas agregar más desafíos a la prueba técnica, puedes considerar los sig
     *   Si lo deseas, puedes incluir una breve documentación en forma de comentarios o un archivo README.md explicando cómo usar tu API.
     *   Crea un entorno virtual para la API que nos permita instalar los requirements necesarios para el correcto funcionamiento
 
-# FastAPI
-# FastAPI
